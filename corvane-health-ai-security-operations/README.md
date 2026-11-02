@@ -1,4 +1,5 @@
-![Corvane Health AI Security Operations Playbook](assets/banner.jpg)
+<img width="2560" height="840" alt="corvane-health-banner" src="https://github.com/user-attachments/assets/1076b1c5-f7af-4d0c-9814-5b5ed104c7f6" />
+
 
 # Corvane Health: AI Security Operations Playbook
 
